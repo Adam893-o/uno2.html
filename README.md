@@ -3,9 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <title>5 Fun Facts About UNO!</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header id="main-header">
+  <header id="main-header">
     <div class="nav-container">
       <nav class="navigation">
         <ul>
@@ -14,7 +15,7 @@
           <li><a href="https://adam893-o.github.io/Uno2.css">Facts About UNO</a></li>
         </ul>
       </nav>
-    </div>
+	  </div>
   </header>
   <div>
 	<h1>5 Fun Facts About UNO!</h1>
