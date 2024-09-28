@@ -14,7 +14,7 @@
           <li><a href="https://adam893-o.github.io/Uno2.css">Facts About UNO</a></li>
         </ul>
       </nav>
-	  </div>
+    </div>
   </header>
   <div>
 	<h1>5 Fun Facts About UNO!</h1>
