@@ -160,6 +160,11 @@ p {
 	font-size: 2em;
 	line-height: 2;
 }
+
+::selection {
+	background: #ffb7b7;
+}
+	
 .container {
 	justify-content: center;
 	padding-left: 20px;
