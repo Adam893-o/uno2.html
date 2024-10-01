@@ -18,7 +18,7 @@
 	  </div>
   </header>
   <div>
-	<h1>5 Fun Facts About UNO!</h1>
+	<h1>Uno Facts</h1>
 	<p>Adam Sharifeh</p>
 	<div id="box1">
 	<p>Uno is a card game loved by all and is one of the most iconic card games of all time. This game has brought joy, anger, satisfaction, and even friendship endings but people still enjoy the game for how fun it is. However, there's more to the game than you think. It's had quite an interesting history and fact that people will find interesting.</p>
