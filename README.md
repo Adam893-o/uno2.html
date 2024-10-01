@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>5 Fun Facts About UNO!</title>
+  <title>Uno Facts</title>
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
