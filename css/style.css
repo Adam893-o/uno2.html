@@ -148,13 +148,6 @@ footer {
   transition: background-color 0.3s ease; 
 }
 
-.content-wrapper {
-	padding: 20px
-  background-image: url("../Media/Orange.jpg");
-	background-size: cover;
-  float: left;
-}
-
 p {
 	color: #ffffff;
 	font-size: 2em;
