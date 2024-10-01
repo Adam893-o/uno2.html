@@ -47,6 +47,7 @@
 		<p>As time went by, this game had a lot of new mechanics and gimmicks to make the game more intense. Whether it's playing a 7 to take someone's hand, immediately playing the same card your opponent played when it's not your turn, or even challenging someone that plays the infamous 4+card on you to make them draw 4 instead. It has made the game more interesting than when it was first invented.</p>
 	  </div>
 	<h2>Conclusion</h2>
+	<div id="box6">
 	  <p>This game has brought a lot of entertainment to a lot of people. We may end up saying or doing things we don't mean but that's just how games are. This game is available for <strong>mobile and PC</strong> and they're high quality in the end.</p>
   </div>
 </body>
