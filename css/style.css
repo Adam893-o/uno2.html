@@ -96,9 +96,14 @@ h2 {
     unicode-bidi: isolate;
 }
 
+mark{
+ background-color:#c0ffc8;
+}
+
 div {
 	text-align: center;
 }
+
 
 li {
 	color: black;
@@ -148,19 +153,17 @@ footer {
   transition: background-color 0.3s ease; 
 }
 
+.content-wrapper {
+	padding: 20px
+  background-image: url("../Media/Orange.jpg");
+	background-size: cover;
+  float: left;
+}
+
 p {
 	color: #ffffff;
 	font-size: 2em;
 	line-height: 2;
-}
-
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    unicode-bidi: isolate;
 }
 	
 .container {
