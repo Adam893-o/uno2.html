@@ -1,3 +1,10 @@
+<!Doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>5 Fun Facts About UNO!</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
 <body>
 <header id="main-header">
     <div class="nav-container">
