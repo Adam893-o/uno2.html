@@ -18,7 +18,37 @@ body {
     background-color: #167ac6;
 }
 
+#box1 {
+	background-color: #1cff83;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
+}
 
+#box2 {
+	background-color: #1cff83;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
+}
+
+#box3 {
+	background-color: #1cff83;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
+}
+
+#box4 {
+	background-color: #1cff83;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
+}
 .nav-container {
 	display: flex;
   justify-content: center;
@@ -27,6 +57,14 @@ body {
 	padding: 15px;
 	border-radius: 10px;
 	box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
+}
+
+#box5 {
+	background-color: #1cff83;
+	display: fixed;
+	padding: 20px;
+	border:10px ridge silver;
+	width: 40%;
 }
 
 .navigation ul {
