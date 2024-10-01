@@ -1,9 +1,9 @@
 <!Doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <title>Uno Facts</title>
-	<link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <header id="main-header">
@@ -39,7 +39,7 @@
 	<h2>4.Other characters are in the game.</h2>
 	  <img src="Media/Image7.jpeg" height="250" width="290" alt="Image of Uno history"/>
 	  <div id="box4">
-		<p> The game has gotten so popular over the years that other characters such as Mario, Star Wars characters, Harry Potter, and Minions made an appearance.</p>
+	  <p> The game has gotten so popular over the years that other characters such as Mario, Star Wars characters, Harry Potter, and Minions made an appearance.</p>
 	  </div>
 	<h2>5.The game has evolved a lot over the years.</h2>
 	  <img src="Media/Image8.png" height="590" width="600" alt="Image of Uno new rules"/>
