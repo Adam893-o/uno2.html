@@ -23,7 +23,7 @@ body {
 	display: fixed;
 	padding: 20px;
 	border:10px ridge silver;
-	width: 40%;
+	width: 95%;
 }
 
 #box2 {
@@ -31,7 +31,7 @@ body {
 	display: fixed;
 	padding: 20px;
 	border:10px ridge silver;
-	width: 40%;
+	width: 95%;
 }
 
 #box3 {
@@ -39,7 +39,7 @@ body {
 	display: fixed;
 	padding: 20px;
 	border:10px ridge silver;
-	width: 40%;
+	width: 95%;
 }
 
 #box4 {
@@ -47,7 +47,7 @@ body {
 	display: fixed;
 	padding: 20px;
 	border:10px ridge silver;
-	width: 40%;
+	width: 95%;
 }
 .nav-container {
 	display: flex;
