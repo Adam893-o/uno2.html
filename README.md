@@ -13,7 +13,7 @@
   <div>
 	<h1>5 Fun Facts About UNO!</h1>
 	<p>Adam Sharifeh</p>
-	<p><mark>Uno is a card game loved by all and is one of the most iconic card games of all time. This game has brought joy, anger, satisfaction, and even friendship endings but people still enjoy the game for how fun it is. However, there's more to the game than you think. It's had quite an interesting history and fact that people will find interesting.</mark></p>
+	<p>Uno is a card game loved by all and is one of the most iconic card games of all time. This game has brought joy, anger, satisfaction, and even friendship endings but people still enjoy the game for how fun it is. However, there's more to the game than you think. It's had quite an interesting history and fact that people will find interesting.</p>
 	<h2>1.The game is much older than you think</h2>
 	  <img src="Media/Image4.png" height="300" width="450" alt="Image of Uno history"/>
 	  <p>The game was first made in 1971 by an American barber named Merle Robbins. This means this game is almost a century year old.</p>
