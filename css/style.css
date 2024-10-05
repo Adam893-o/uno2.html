@@ -70,7 +70,7 @@ h1 {
 	width: 96%;
 	margin: 0px auto;
 }
-nav-container {
+.nav-container {
     display: flex;
     justify-content: center;
     unicode-bidi: isolate;
