@@ -112,13 +112,6 @@ h1 {
   width: 96%;
 }
 
-.navigation ul {
-  display: flex;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
 .navigation ul li {
   margin-right: 20px;
   background-color: #0056a6; 
