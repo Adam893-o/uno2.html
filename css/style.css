@@ -41,6 +41,7 @@ h1 {
     justify-content: center;
     font-size: 1.2em;
     unicode-bidi: isolate;
+    background-color: rgba(27, 127, 204, 0.8);
     padding: 10px 20px;
     background-color: #1b7fcc;
     border-radius: 5px;
