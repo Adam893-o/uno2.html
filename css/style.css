@@ -33,19 +33,6 @@ h1 {
 }
 
 
-h2 {
-  display: block;
-  font-size: 2em;
-  margin-block-start: 0.83em;
-  margin-block-end: 0.83em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
-  font-family: 'Devonshire', Georgia
-  color: silver;
-  unicode-bidi: isolate;
-}
-
 #box1 {
 	background-color: #1cff83;
 	display: fixed;
@@ -165,14 +152,16 @@ img {
 }
 
 h2 {
-    display: block;
-    font-size: 2em;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    unicode-bidi: isolate;
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-family: 'Devonshire', Georgia
+  color: silver;
+  unicode-bidi: isolate;
 }
 
 div {
@@ -220,18 +209,11 @@ h2 strong{
 }
 
 .content-wrapper {
-	padding: 20px
+  padding: 20px
   background-image: url("../Media/Orange.jpg");
-	background-size: cover;
+  background-size: cover;
   float: left;
 }
-
-p {
-	color: #ffffff;
-	font-size: 2em;
-	line-height: 2;
-}
-
 
 p {
 	color: black;
@@ -240,10 +222,10 @@ p {
 }
 
 .container {
-	justify-content: center;
-	padding-left: 20px;
+  justify-content: center;
+  padding-left: 20px;
   align-items: center;
-	min-height: 100vh;
+  min-height: 100vh;
 }
 
 main-nav ul li a:hover {
@@ -253,12 +235,12 @@ main-nav ul li a:hover {
 content-wrapper {
   width: 960px;
   text-align: center;
-	font-family: sans-serif, "Helvetica Neue", Arial;
-	font-stretch: expanded;
+  font-family: sans-serif, "Helvetica Neue", Arial;
+  font-stretch: expanded;
 }
 
 strong {
-	font-weight: 0.9em;
-	color: blue;
-	font-weight: bold;
+  font-weight: 0.9em;
+  color: blue;
+  font-weight: bold;
 }
