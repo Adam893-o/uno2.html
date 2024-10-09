@@ -9,7 +9,7 @@
   <header id="main-header">
     <div class="nav-container">
       <nav class="navigation">
- 	<ul>
+	<ul>
           <li><a href="jupiter2.html">About Jupiter</a></li>
           <li><a href="resume.html">Adam's Resume</a></li>
           <li><a href="uno2.html">Uno Facts</a></li>
