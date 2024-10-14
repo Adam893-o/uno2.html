@@ -193,11 +193,12 @@ content-wrapper {
 
 section {
   background-color: #f9f9f9;
-    padding: 3em;
-    margin: 6em;
-    border-radius: 8px;
-    border: 1px solid beige;
-    background-image: linear-gradient(to right top, green, blue, red);
+  padding: 3em;
+  margin: 6em;
+  border-radius: 8px;
+  text-align: center;
+  border: 1px solid beige;
+  background-image: linear-gradient(to right top, green, blue, red);
 }
 
 strong {
